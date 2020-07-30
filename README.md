@@ -1,0 +1,2 @@
+# manning
+LiveProject Resources
